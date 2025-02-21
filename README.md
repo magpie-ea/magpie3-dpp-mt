@@ -10,7 +10,7 @@ To build the project for deployment (e.g. to Netlify), run `npm run build`
 
 For more information, see our [getting started guide](https://magpie-ea.github.io/magpie-site/experiments/introduction.html).
 
-Live version of experiment: <https://magpie-dpp-mt.netlify.app/>.
+Live version of experiment: [https://magpie-dpp-mt.netlify.app/](https://magpie-ea.github.io/magpie3-dpp-mt/).
 
 ### Linting
 

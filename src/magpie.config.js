@@ -1,8 +1,8 @@
 export default {
-  experimentId: '106',
-  serverUrl: 'https://mcmpact.ikw.uni-osnabrueck.de/magpie/',
-  socketUrl: 'wss://mcmpact.ikw.uni-osnabrueck.de/magpie/socket',
-  completionUrl: 'https://app.prolific.co/submissions/complete?cc=CNXFIYQD',
+  experimentId: '13',
+  serverUrl: 'https://magpie-cogsciprag.fly.dev',
+  socketUrl: 'wss://magpie-cogsciprag.fly.dev/socket',
+  completionUrl: '',
   contactEmail: 'vini.macuch@gmail.com',
-  mode: 'prolific'
+  mode: 'directLink'
 };
